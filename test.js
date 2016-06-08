@@ -1,8 +1,8 @@
 if (10 < 3)
 {
-    console.log("The condition is true")
+    console.log("True")
 }
 else
 {
-    console.log("The condition is false")
+    console.log("False")
 }
