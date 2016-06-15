@@ -29,5 +29,7 @@ ol{
 li{
   display:inline;
 }
-
+p {
+    padding: 10px 10px 10px 10px;
+}
 
