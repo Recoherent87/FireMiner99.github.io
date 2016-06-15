@@ -26,4 +26,8 @@ a:hover, a:active {
 ol{
   list-style-type:circle;
 }
+li{
+  display:inline;
+}
+
 
