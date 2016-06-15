@@ -1,4 +1,4 @@
-*{border-style: dotted;
+*p.one {border-style: dotted;
   border-width: 5px;
   border-color:red;
 }
