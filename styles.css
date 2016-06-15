@@ -23,3 +23,9 @@ a:link, a:visited {
 a:hover, a:active {
     background-color: blue;
 }
+ol{
+  list-style-type:circle;
+  
+  
+  
+}
