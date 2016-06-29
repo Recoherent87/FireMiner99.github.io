@@ -1,1 +1,1 @@
-window.alert("Welcome I made this using Javascript.");
+* window.alert("Welcome I made this using Javascript.");
