@@ -1,1 +1,1 @@
-window.alert(Welcome to my website I made this alert with javascript.);
+window.alert("Welcome Visitor I made this alert using Javascript.");
