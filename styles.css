@@ -45,16 +45,4 @@ a:link, a:visited {
     display: inline-block;
 }
 
-a:hover, a:active {
-    background-color: blue;
-}
-ol{
-  list-style-type:circle;
-}
-li{
-  display:inline;
-}
-p {
-    padding: 10px 10px 10px 10px;
-}
 
