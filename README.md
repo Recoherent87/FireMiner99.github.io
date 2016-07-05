@@ -2,6 +2,7 @@
 My collection of coding projects.
 
 License
+
 The MIT License (MIT)
 
 Copyright (c) 2016 FireMiner99
