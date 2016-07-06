@@ -27,10 +27,10 @@ text-decoration: none;
 }
 
 p {
-  padding-top:10px;
-  
+  padding-top: 10px;
+ font-family: Serif; 
 }
-}
+
 
 #navigation a:hover {
 color: gray;
