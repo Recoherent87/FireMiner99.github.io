@@ -26,6 +26,12 @@ color: white;
 text-decoration: none;
 }
 
+p {
+  padding-top:10px;
+  
+}
+}
+
 #navigation a:hover {
 color: gray;
 } 
