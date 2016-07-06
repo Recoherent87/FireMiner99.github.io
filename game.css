@@ -32,3 +32,8 @@ text-decoration: none;
     
   }
   
+  
+#navigation a:hover {
+color: gray;
+} 
+  
