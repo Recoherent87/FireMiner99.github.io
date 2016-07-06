@@ -3,6 +3,8 @@ Current Project: Website
 
 Version 1.0
 
+Next Version Will add game and multiple language support.
+
 My collection of coding projects.
 
 License
