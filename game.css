@@ -36,7 +36,8 @@ text-decoration: none;
 #navigation a:hover {
 color: gray;
 } 
-  * {
+
+p {
    background-color: yellow;
    
    
