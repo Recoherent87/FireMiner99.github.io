@@ -47,7 +47,7 @@ color: gray;
     font-family:cursive;
 }
 
-div {
+div.para {
   border-style: inset;
    border-width: 3.5px;
    border-color: Black;
