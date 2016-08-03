@@ -48,7 +48,7 @@ color: gray;
 }
 
 h2 {
-  border-style: round;
+  border-style: round inset;
    border-width: 3.5px;
    border-color: Black;
   
