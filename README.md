@@ -6,7 +6,7 @@ Current Project: Website
 
 Version 1.1
 
-Next Version Will add game and multiple language support.
+Next Version Will add game and more languages.
 
 My collection of coding projects.
 
@@ -41,7 +41,8 @@ Proyecto actual: Sitio web
 
 versión 1.1
 
-Próxima versión del juego y añadir soporte para varios idiomas.
+
+Próxima versión del juego y añadir más idiomas .
 
 Mi colección de proyectos de codificación.
 
