@@ -4,7 +4,7 @@ English
 
 Current Project: Website
 
-Version 1.0
+Version 1.1
 
 Next Version Will add game and multiple language support.
 
@@ -39,7 +39,7 @@ Español
 
 Proyecto actual: Sitio web
 
-versión 1.0
+versión 1.1
 
 Próxima versión del juego y añadir soporte para varios idiomas.
 
