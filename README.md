@@ -6,8 +6,8 @@ Current Project: Website
 
 Version 1.2
 
-Next Version Will add game and more languages.
-Planed Languages: German, Italian, Chineese and French.
+Next Version Will add game.
+
 
 My collection of coding projects.
 
@@ -43,7 +43,7 @@ Proyecto actual: Sitio web
 versión 1.2
 
 
-Próxima versión del juego y añadir más idiomas .
+Próxima versión del juego.
 
 Mi colección de proyectos de codificación.
 
