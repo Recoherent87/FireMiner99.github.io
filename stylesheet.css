@@ -38,9 +38,12 @@ color: gray;
 
  body {
    background-color:#00FFFF ;
-   
+   border-style: inset;
+   border-width: 3.5px;
+   border-color: Black;
    
   }
+  
   
   footer {
     font-family:cursive;
