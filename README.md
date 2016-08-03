@@ -7,6 +7,7 @@ Current Project: Website
 Version 1.1
 
 Next Version Will add game and more languages.
+Planed Languages: German, Italian, Chineese,Jappeneese and French.
 
 My collection of coding projects.
 
