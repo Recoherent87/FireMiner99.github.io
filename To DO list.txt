@@ -1,3 +1,2 @@
 1 Make Game and make game page for Spanish Version
-
-3 Improve Game and pages (maybe new styling?)
+2 Improve Game and pages (maybe new styling?)
