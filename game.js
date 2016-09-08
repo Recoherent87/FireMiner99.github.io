@@ -1,1 +1,1 @@
-console.log (Welcome to the COnsole!!! - FireMiner99)
+console.log("Welcome to the Console!!!")
