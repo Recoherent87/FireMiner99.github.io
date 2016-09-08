@@ -1,2 +1,2 @@
-1 Make Game and make game page for Spanish Version
-2 Improve Game and pages (maybe new styling?)
+1  Make about page for Spanish Version and German Version
+2 Improve pages (maybe new styling?)
