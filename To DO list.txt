@@ -1,2 +1,2 @@
 1 More Languages and A Specific Nav Menu for Languages.
-2 Finish The Game (English Version)
+2 Make Dice Roller (More Languages)
