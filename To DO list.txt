@@ -1,2 +1,2 @@
-1  Make about page for Spanish Version and German Version
-2 Improve pages (maybe new styling?)
+1 Improve pages (maybe new styling?)
+2 More Languages and A Specific Nav Menu for Languages.
